@@ -1,2 +1,2 @@
 # CompBioPapers
-I will be dropping some interesting papers in computational biology/genomics into this repo.
+Interesting papers in computational biology research
